@@ -1,0 +1,4 @@
+activate PowerShell
+activate venv
+install numpy and flask in venv
+run flask integration file
